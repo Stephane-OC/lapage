@@ -12,7 +12,7 @@ This project was conducted in a **consulting-oriented mindset**, with a strong f
 ➡️ [Open the live HTML version](https://stephane-oc.github.io/lapage/)  
 
 💻 **Original Jupyter Notebook**  
-➡️ [View the notebook file](https://github.com/Stephane-OC/analyse_lapage.ipynb)  
+➡️ [View the notebook file](https://github.com/Stephane-OC/lapage/blob/main/analyse_lapage.ipynb)  
 
 ---
 
